@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dante\'s Sound Board</string>
+    <string name="dante_s_sound_board">Dante\'s Sound Board</string>
+    <string name="mr_krabs">Mr. Krabs</string>
+    <string name="colonel">Colonel</string>
+    <string name="camel">Camel</string>
+    <string name="iya">IYA</string>
+    <string name="done">Done?</string>
+    <string name="yare_yare">Yare Yare</string>
+    <string name="stop">Stop</string>
+    <string name="pathetic">Pathetic</string>
+    <string name="toes">Toes</string>
+    <string name="todo">TODO</string>
+</resources>
